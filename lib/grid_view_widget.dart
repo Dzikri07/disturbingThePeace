@@ -13,7 +13,7 @@ class _GridViewWidgetState extends State<GridViewWidget>
     with AutomaticKeepAliveClientMixin {
 
   @override
-  bool get wantKeepAlive => true; // ❗ grid juga tidak hilang
+  bool get wantKeepAlive => true; 
 
   @override
   Widget build(BuildContext context) {

@@ -1,18 +1,18 @@
 final List<Map<String, String>> travelData = [
   {
     'title': 'Raja Ampat',
-    'image': 'https://unesco.or.id/wp-content/uploads/2025/08/Raja-Ampat.webp',
+    'image': 'https://ik.trn.asia/uploads/2025/06/1749438168724.jpeg',
   },
   {
     'title': 'Bromo',
-    'image': 'https://placehold.co/600x400/FF9800/FFFFFF?text=Bromo',
+    'image': 'https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/105/2024/06/28/bromo-1096285770.jpg',
   },
   {
     'title': 'Danau Toba',
-    'image': 'https://placehold.co/600x400/4CAF50/FFFFFF?text=Danau+Toba',
+    'image': 'https://static.promediateknologi.id/crop/0x744:1080x1471/0x0/webp/photo/p2/206/2025/05/04/Screenshot_2025-05-04-16-04-00-142_comgoogleandroidappsmaps-618039240.jpg',
   },
   {
     'title': 'Borobudur',
-    'image': 'https://placehold.co/600x400/795548/FFFFFF?text=Borobudur',
+    'image': 'https://smaratungga.ac.id/admin/artikel/file/67ff565d6618e.jpg',
   },
 ];
